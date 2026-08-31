@@ -225,4 +225,4 @@ El sistema está preparado para validación experimental, depuración de hardwar
 
 ## Autor
 
-Proyecto desarrollado para el equipo de programación del CanSat Tepochtli.
+Proyecto desarrollado por el equipo de programación del CanSat Tepochtli.
